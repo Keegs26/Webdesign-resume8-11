@@ -1,0 +1,101 @@
+body{
+  font-family: 'Times New Roman', Times, serif; 
+  font-size:130%;
+  background-color: #FCF7F8;
+  
+  
+}
+
+header {
+  
+  text-align: center;
+  padding-top: 10px;
+  
+
+}
+
+footer {
+  
+  text-align: center;
+  justify-content: center;
+ 
+  
+}
+
+.icon-1{
+  padding: 10px;
+}
+
+.icon-2{
+  padding: 10px;
+}
+
+.icon-3{
+  padding: 10px;
+  
+}
+
+.headshot{
+  border-radius: 50%;
+  
+  width: 250px;
+  border: whitesmoke 5px solid ;
+ 
+ 
+
+
+}
+
+.name{
+
+  padding-top: 2rem;
+  font-size: 180%;
+  color:black;
+}
+
+.intro{
+  font-size: 180%;
+  color:black;
+
+}
+
+
+  
+
+
+
+  
+
+
+.details{color: black;
+  font-size: 180%;
+}
+
+
+
+
+@media only screen and (min-width: 992px) {
+   header,footer{ background-image: url(pexels-maria-orlova-4913489.jpg);}
+
+   }
+
+
+@media only screen and (max-width: 992px) {
+  header,footer{ background-image: url(pexels-maria-orlova-4913489.jpg);}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
